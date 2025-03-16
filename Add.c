@@ -17,6 +17,7 @@ int main()       //mandatory section
     printf("\n res=%d",(a/b));   //2
     printf("\n res=%d",(a%b));   //1
 
+    printf("hello");
     
   return 0;
 }
